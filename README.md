@@ -9,7 +9,7 @@
 
 <p  align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://ggithub-readme-stats.vercel.app/api/top-langs/?username=kaizoku-oh" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
 </a>
   <a href="https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3">How to pronounce my name!</a></br>
   <img src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
