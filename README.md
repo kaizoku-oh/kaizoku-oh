@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/color/48/000000/medium-logo.png"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/color/30/000000/medium-logo.png"/></a>
   <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
   <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
   <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
