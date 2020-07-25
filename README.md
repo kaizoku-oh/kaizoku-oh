@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center" ><img src="https://raw.githubusercontent.com/kaizoku-oh/kaizoku-oh/master/static/myintro.gif"/></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -28,13 +28,11 @@
 <!--
 **kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on embedded systems, mainly programming and connecting tiny devices to the internet
+- 🌱 I’m currently learning python and docker
+- 👯 I’m looking to collaborate on IoT projects
+- 💬 Ask me about IoT solutions and connecting devices to the cloud
+- 📫 How to reach me: you can reach me from the social media links above
+- 😄 Pronouns: he/him
+- ⚡ Languages: C, Python, Java
