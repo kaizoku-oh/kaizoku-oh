@@ -1,5 +1,3 @@
-<p align="center" ><img src="https://raw.githubusercontent.com/kaizoku-oh/kaizoku-oh/master/static/myintro.gif"/></p>
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
