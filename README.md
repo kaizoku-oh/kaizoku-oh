@@ -32,5 +32,4 @@
 - 👯 I’m looking to collaborate on IoT projects
 - 💬 Ask me anything about IoT solutions and connecting devices to the cloud
 - 📫 How to reach me: you can reach me from the social media links above
-- 😄 Pronouns: he/him
 - ⚡ Languages: C, Python, Java
