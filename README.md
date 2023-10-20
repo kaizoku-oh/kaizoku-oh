@@ -27,8 +27,8 @@
 **kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on embedded systems, mainly programming and connecting tiny devices to the internet
-- 🌱 I’m currently learning FastAPI for developing high performance lightweigh APIs
+- 🔭 I’m currently working on embedded systems, mainly writing low level code to make sure the hardware is working as expected
+- 🌱 I’m currently learning Zephyr RTOS for building high quality generic firmware
 - 👯 I’m looking to collaborate on IoT projects
 - 💬 Ask me anything about IoT solutions and connecting devices to the cloud
 - 📫 How to reach me: you can reach me from the social media links above
