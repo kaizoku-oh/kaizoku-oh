@@ -1,4 +1,5 @@
 <h3 align="center">Connect with me</h3>
+<!-- Social media icons -->
 <p align="center">
   <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
@@ -6,11 +7,19 @@
   <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
+<!-- Stats -->
+<div align="center">
+  <a href="https://github.com/kaizoku-oh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaizoku-oh&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizoku-oh&layout=compact&langs_count=5"/>
+</div>
+
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
-  </a>
+  </a> -->
+  <!-- Badges -->
   <p>
     <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
     <a href="https://github.com/kaizoku-oh?tab=followers"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
